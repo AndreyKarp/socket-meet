@@ -1,0 +1,58 @@
+{
+  "config": {
+    "presentationStreamId": null
+  },
+  "members": {
+    "yRRlonxLO5Wtxh9iAAAN": {
+      "socketId": "yRRlonxLO5Wtxh9iAAAN",
+      "username": "Octopus"
+    },
+    "rR3QzSEPi0nnXe5hAAAO": {
+      "socketId": "rR3QzSEPi0nnXe5hAAAO",
+      "username": "Fish"
+    }
+  },
+  "streams": [
+    {
+      "id": "{7054695a-4d9a-4821-8272-a76e4222f53b}",
+      "socketId": "yRRlonxLO5Wtxh9iAAAN",
+      "type": "webcam",
+      "tracks": [
+        {
+          "id": "{ceecce49-7eb6-45d5-bef3-968e3076f9e4}",
+          "kind": "audio"
+        },
+        {
+          "id": "{db4c761a-0280-4a42-b1bc-6f26f795c15b}",
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "pCC5FOlycjvRlVHm8wmANI3F38TwjYpXvKKo",
+      "socketId": "rR3QzSEPi0nnXe5hAAAO",
+      "type": "webcam",
+      "tracks": [
+        {
+          "id": "c368c7b0-cb00-412f-854f-cf2cc988993e",
+          "kind": "audio"
+        },
+        {
+          "id": "b723cfa6-1633-4248-963c-d9adbcbed663",
+          "kind": "video"
+        }
+      ]
+    },
+    {
+      "id": "AIlvXTT8KI3mo3CDckjW7FYlbvoKEnF7B2o9",
+      "socketId": "rR3QzSEPi0nnXe5hAAAO",
+      "type": "screen",
+      "tracks": [
+        {
+          "id": "0668acba-a74d-4d6b-8daa-f04ba133ca6b",
+          "kind": "video"
+        }
+      ]
+    }
+  ]
+}

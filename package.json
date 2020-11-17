@@ -1,0 +1,22 @@
+{
+  "name": "meet_socket",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "awilix": "^4.2.6",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "author": "karpenkoandrey89@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "js-sha512": "^0.8.0",
+    "nodemon": "^2.0.4"
+  }
+}
